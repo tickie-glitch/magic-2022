@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Moving Tiles Up
+  m_Shader: {fileID: -6465566751694194690, guid: 0dc4fced02e14f4489733b12d371689d,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 1
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_949F1AEF:
+        m_Texture: {fileID: 2800000, guid: 0a4f04546f55d894fa585564b90475f4, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_AF30E63B:
+        m_Texture: {fileID: 2800000, guid: 1315468a656370e4eb15e829a8f9e48e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_EFB1826B:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_283F549A: 8.05
+    - Vector1_4793473A: 0.081
+    - Vector1_84D28A65: 1.62
+    - Vector1_A87DF7F3: -0.75
+    - Vector1_BF1CF91C: 0.956
+    - Vector1_EC0C1600: 2.13
+    - Vector1_F7850D6A: -1.41
+    m_Colors:
+    - Vector4_29CB4192: {r: 1, g: 1, b: 0, a: 0}
