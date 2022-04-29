@@ -12,8 +12,6 @@
     "ch.ecal.esp32-input": "https://github.com/ecal-mid/unity-esp32-input.git?path=/unity",
     "com.magicleap.unitysdk": "https://github.com/magicleap/MagicLeapUnitySDK.git",
     "com.quantumcalzone.unitygitpackageupdater": "https://github.com/QuantumCalzone/UnityGitPackageUpdater.git#upm",
-    "com.unity.burst": "1.6.5",
-    "com.unity.formats.alembic": "1.0.7",
     "com.unity.ide.rider": "2.0.7",
     "com.unity.ide.visualstudio": "2.0.14",
     "com.unity.ide.vscode": "1.2.5",
